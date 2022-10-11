@@ -7,7 +7,7 @@ interface FooterContent {
 const FooterClass = styled.div<FooterContent>`
     height: 200px;
     width: 100%;
-    background-color: ${props => props.darkTheme ? 'black' : 'rgb(0, 182, 124)'};
+    background-color: ${props => props.darkTheme ? 'black' : 'rgb(0, 120, 94)'};
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
