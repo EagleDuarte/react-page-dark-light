@@ -15,7 +15,7 @@ justify-content: center;
 const SwitchThemeButton = () => {
     return (
         <ButtonThemeElement>
-            Theme Change
+            Change Theme
         </ButtonThemeElement>
     )
 }

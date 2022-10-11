@@ -32,7 +32,7 @@ const Home = () => {
     return (
         <>
             <ButtonThemeElement onClick={HandleClick} darkTheme={darkTheme}>
-                Theme Change
+                Change Theme
             </ButtonThemeElement>
 
             <Banner

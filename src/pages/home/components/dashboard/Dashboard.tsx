@@ -48,7 +48,7 @@ const Dashboard = (props: DashboardProps) => {
                 <i className="far fa-brain info__icon"></i>
 
                 <h3 className="info__title">
-                    Wars, Politics and Theories
+                    Revolutions, Politics and Theories
                 </h3>
 
                 <p className="info__text">
